@@ -1,0 +1,29 @@
+[
+  {
+      "title": "Earth Tome",
+      "description": "A Novice Friendly Tome For Minor Manipulation of Dirt and Stone. Note: Popular Amongst Fourth-Class Academy Scholars",
+      "image": "images/EarthTome.jpg",
+      "color": "rgb(147, 255, 93)"
+  },
+  {
+      "title": "Fire Tome",
+      "description": "An Advanced Beginner's Perfect Tome For Flame Manipulation. Note: A Go To Tome For Mana Control Classes. Exceptionally High Skill Curve.",
+      "image": "images/FireTome.jpg",
+      "color": "#ed8f3d"
+  },
+  {
+      "title": "Holy Tome",
+      "description": "A Competent Wizard's Go To Start On Deity Essence Extraction. Note: A Go To Tome For Protection And Rejuvenation Classes.",
+      "image": "images/HolyTome.jpg",
+      "color": "rgb(243, 234, 157)"
+  },
+  {
+      "title": "Void Tome",
+      "description": "An Expert Archmage's First Textbook Over Astral Mana Starbinding and Manipulation. Note: Often Referenced and Studied By Academy Professors and Deans.",
+      "image": "images/VoidTome.jpg",
+      "color": "rgb(96, 175, 232)"
+  }
+
+  
+]
+
